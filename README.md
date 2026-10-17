@@ -163,6 +163,8 @@ Full outputs for every command are in [examples/](examples).
 3. `posts` takes the first few posts from the profile page. For more, it sends the same query the Threads website sends for the next page, using the cursor from the page.
 4. Each record is cleaned into the fields above.
 
+A longer walkthrough with timed runs, a CSV example and datacenter vs residential results: [How to scrape Threads with Python](https://toolzerhub.com/blog/how-to-scrape-threads?utm_source=github&utm_medium=readme&utm_campaign=threads-scraper).
+
 ## Limits
 
 - Public data only.
