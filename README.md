@@ -200,8 +200,11 @@ No. The [ToolzerHub API](https://toolzerhub.com/apis/threads?utm_source=github&u
 
 ## Related scrapers
 
-- [toolzerhub/instagram-scraper](https://github.com/toolzerhub/instagram-scraper): public Instagram profiles, posts, comments and search
-- [toolzerhub/reddit-scraper](https://github.com/toolzerhub/reddit-scraper): public Reddit posts, comments, subreddits and search
+- [instagram-scraper](https://github.com/toolzerhub/instagram-scraper): public Instagram profiles, posts, comments and search
+- [tiktok-scraper](https://github.com/toolzerhub/tiktok-scraper): public TikTok profiles, videos, comments and hashtags
+- [reddit-scraper](https://github.com/toolzerhub/reddit-scraper): public subreddits, posts, comments, search and user posts
+- [linkedin-scraper](https://github.com/toolzerhub/linkedin-scraper): public LinkedIn jobs, companies, profiles and posts
+- [google-maps-scraper](https://github.com/toolzerhub/google-maps-scraper): public Google Maps places, details and reviews
 
 ## Legal and responsible use
 
